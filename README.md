@@ -16,6 +16,9 @@ An external file had been chosen instead of creating a dictionary due to signifi
 4. The video presentation of the powerpoint "Suharevs_Vadims_DA201_Assignment_Presentation.mp4" submitted via Canvas as the file is too large to be added on here.
 The link is here: https://fourthrev.instructure.com/courses/447/assignments/1793/submissions/1202
 If any issues, please let me know.
+Also link on google drive: https://drive.google.com/drive/folders/1QBVBMG8TTorVLwmKOF4wx5XcYdraO8fU?usp=sharing
+
+Please contact me if anything is unclear or any of the files are not accessible for any reason.
 
 Best Regards,
 Vadims Suharevs
