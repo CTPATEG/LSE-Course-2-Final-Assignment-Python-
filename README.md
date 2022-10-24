@@ -1,7 +1,7 @@
 # LSE-Course-2-Final-Assignment-Python-
-# Final Course 2 Assignment submitted to the LSE
+Final Course 2 Assignment submitted to the LSE
 
-# The Folder Consists of the following files
+The Folder Consists of the following files
 
 1. The Main assignment notebook with all the code, consisting of the 7 Sections, conclusions and recommendations:
 "Suharevs_Vadims_DA201_Assignment_Notebook.ipynb"
